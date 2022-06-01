@@ -27,7 +27,7 @@ a {
     justify-content: space-between;
     width: 300px;
 }
-.header :hover {
+.header--list :hover {
     text-decoration: underline;
 }
 .main--container {
